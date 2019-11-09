@@ -1,0 +1,23 @@
+
+.test_con{
+	height: 1000rpx;
+}
+.list_con{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	width: 100%;
+	-webkit-flex-wrap: wrap;
+	    -ms-flex-wrap: wrap;
+	        flex-wrap: wrap;
+}
+.item-list{
+	width: 50%;
+	padding: 10rpx;
+}
+.item-list image{
+	width: 100%;
+	height: 200rpx;
+}
+
